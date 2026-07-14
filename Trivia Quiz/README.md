@@ -45,10 +45,3 @@ You got it right!
 The correct answer was: True
 Your score is 1/1
 ```
-
-## Possible Improvements
-
-- Pull live questions from the Open Trivia Database API instead of a static list
-- Clean up HTML entities in question text (such as `&quot;`) using Python's built-in `html` module
-- Add difficulty selection and category filtering
-- Validate user input so anything other than True/False prompts a retry
